@@ -4,6 +4,8 @@ because your programs are too simple at this point, just add your name and the c
 of each program file. Then write one sentence
 describing what the program does.*/
 
+
+// let change in name
 // let lattercase of name into lowercase
-let myName = 'Shahzad Ishaq';
+let myName = 'Shahzad Ishaq jalal';
 console.log(myName.toLowerCase());
